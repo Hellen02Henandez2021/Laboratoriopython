@@ -1,0 +1,9 @@
+Print(Te levantas a las 7am)
+
+x=“x“
+
+if x==“si“
+   Print(“si llegas a tiempo a tu destino“)
+
+else:
+Print(“No llegas a tiempo a tu destino“)
